@@ -2,17 +2,17 @@ import requests
 string = """
 		<request>
         	<authentication>
-                <username>5057023101</username>
-                <password>654321</password>
+                <username></username>
+                <password></password>
         	</authentication>
         	<order>
 	        	<sender>ILETI MRKZI</sender>
 	        	<sendDateTime></sendDateTime>
 	        	<message>
-	        		<text><![CDATA[Hop ki uc bes]]></text>
+	        		<text><![CDATA[Test mesaj metni]]></text>
 	        		<receipents>
-	        			<number>5057023100</number>
-	        			<number>5354104818</number>
+	        			<number></number>
+	        			<number></number>
 	        		</receipents>
 	        	</message>
         	</order>
